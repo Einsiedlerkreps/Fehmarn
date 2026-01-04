@@ -1,0 +1,4 @@
+[package]
+org = "helmutb"
+name = "fehmarn_agent"
+version = "1.0.0"
